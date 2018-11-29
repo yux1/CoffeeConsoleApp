@@ -1,0 +1,7 @@
+C:\Users\Bry\source\repos\CoffeeConsoleApp\CoffeeConsoleApp\bin\Debug\CoffeeConsoleApp.exe.config
+C:\Users\Bry\source\repos\CoffeeConsoleApp\CoffeeConsoleApp\bin\Debug\CoffeeConsoleApp.exe
+C:\Users\Bry\source\repos\CoffeeConsoleApp\CoffeeConsoleApp\bin\Debug\CoffeeConsoleApp.pdb
+C:\Users\Bry\source\repos\CoffeeConsoleApp\CoffeeConsoleApp\obj\Debug\CoffeeConsoleApp.csprojAssemblyReference.cache
+C:\Users\Bry\source\repos\CoffeeConsoleApp\CoffeeConsoleApp\obj\Debug\CoffeeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Bry\source\repos\CoffeeConsoleApp\CoffeeConsoleApp\obj\Debug\CoffeeConsoleApp.exe
+C:\Users\Bry\source\repos\CoffeeConsoleApp\CoffeeConsoleApp\obj\Debug\CoffeeConsoleApp.pdb
